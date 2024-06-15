@@ -20,6 +20,6 @@ O projeto é um simples sorteador de números, onde o usuário pode escolher a q
 -  Limpar Campos = Após o usuário clicar no botão para reiniciar o jogo, o programa limpa todos os campos e retira a mensagems dos números sorteados;
 
 ## Como Executar
-1. Acesso ao jogo: [Clique Aqui]();
+1. Acesso ao jogo: [Clique Aqui](https://rafaelmainieri.github.io/sorteador-numeros/);
 2. O usuário deve inserir a quantidade de números que deseja sortear e delimitar o número minimo e máximo;
 3. O Sorteador irá informar os números sorteados na tela;
