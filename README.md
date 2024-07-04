@@ -1,7 +1,7 @@
 # Sorteador de Números 🍀
 
-### Técnologias Utilizadas:
-<div>
+<div align=center>
+  <h3>Técnologias Utilizadas:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25" height="25"" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25" height="25" />
